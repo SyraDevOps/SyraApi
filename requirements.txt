@@ -1,0 +1,7 @@
+Flask>=2.3.0
+Flask-Cors>=3.0.10
+Flask-SocketIO>=5.3.6
+PyJWT>=2.8.0
+pyotp>=2.8.0
+qrcode>=7.4.2
+Pillow>=9.5.0
